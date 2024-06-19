@@ -1,0 +1,19 @@
+html{
+    background-color: 55AD9B;
+}
+
+.meme{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: Libre Baskerville ;
+
+
+}
+img{
+    border: solid ;
+    border-color: 006989;
+    border-width: 5px;
+
+}
